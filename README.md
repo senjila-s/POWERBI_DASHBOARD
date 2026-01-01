@@ -51,7 +51,7 @@ Using music streaming data, this dashboard visualizes:
 * User listening patterns
 * Top genres or playlists
 
-It’s a dynamic analytic view into Spotify data for music trend analysis. ([GitHub][1])
+It’s a dynamic analytic view into Spotify data for music trend analysis. 
 
 ---
 
